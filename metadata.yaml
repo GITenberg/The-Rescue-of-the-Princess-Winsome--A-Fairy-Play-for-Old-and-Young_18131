@@ -1,0 +1,40 @@
+_repo: The-Rescue-of-the-Princess-Winsome--A-Fairy-Play-for-Old-and-Young_18131
+_version: 0.1.0
+contributor:
+  composer:
+    agent_name: Bacon, Albion Fellows
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '7826'
+    url: http://www.gutenberg.org/2009/agents/7826
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2006-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s plays'
+- !lcsh 'Fairies -- Juvenile drama'
+- !lcsh 'Princesses -- Juvenile drama'
+- !lcsh 'Witches -- Juvenile drama'
+title: 'The Rescue of the Princess Winsome: A Fairy Play for Old and Young'
+url: http://www.gutenberg.org/ebooks/18131
