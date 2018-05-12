@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18131#The-Rescue-of-the-Princess-Winsome--A-Fairy-Play-for-Old-and-Young
 gutenberg_issued: '2006-04-08'
 gutenberg_type: Text
 identifiers:
